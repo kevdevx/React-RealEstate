@@ -4,3 +4,5 @@ This is a React Website for a client's Real Estate business done in Dec 2021, th
 These are snapshots of the design:
 
 ![alt text](https://user-images.githubusercontent.com/99336022/153275650-4afc98bc-b982-4f39-88ee-db303f15e45b.png?raw=true)
+
+![alt text](https://user-images.githubusercontent.com/99336022/153275719-33eed292-8080-4c23-a0a9-811158804d85.png?raw=true)
